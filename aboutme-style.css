@@ -10,10 +10,18 @@ p{
 	color: white;
 	font-family: Courier New;
 }
+p::first-letter{
+	font-size: xx-large;
+}
 li{
 	color: white;
 }
 body{
 	background-color: black;
-	
+}
+a:hover {
+	text-decoration: underline;
+}
+a{
+	text-decoration:none
 }
