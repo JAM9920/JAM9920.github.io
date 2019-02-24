@@ -1,0 +1,19 @@
+h1{
+	color: blue;
+	font-size: 90px;
+}
+h2{
+	color: blue;
+	font-family: Arial;
+}
+p{
+	color: white;
+	font-family: Courier New;
+}
+li{
+	color: white;
+}
+body{
+	background-color: black;
+	
+}
